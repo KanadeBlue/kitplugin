@@ -1,0 +1,21 @@
+{
+    "kits": [
+      {
+        "name": "Starter",
+        "items": [
+          { "item_id": "minecraft:iron_sword", "amount": 1 },
+          { "item_id": "minecraft:cooked_beef", "amount": 16 }
+        ],
+        "permission": "kits.starter"
+      },
+      {
+        "name": "Advanced",
+        "items": [
+          { "item_id": "minecraft:diamond_pickaxe", "amount": 1 },
+          { "item_id": "minecraft:golden_apple", "amount": 3 }
+        ],
+        "permission": "kits.advanced"
+      }
+    ]
+  }
+  
