@@ -2,9 +2,9 @@ package main
 
 import (
     "encoding/json"
-    "github.com/df-mc/dragonfly/dragonfly/command"
-    "github.com/df-mc/dragonfly/dragonfly/player"
-    "github.com/df-mc/dragonfly/dragonfly/item"
+    "github.com/df-mc/dragonfly/server/cmd"
+    "github.com/df-mc/dragonfly/server/player"
+    "github.com/df-mc/dragonfly/server/item"
     "os"
 )
 
